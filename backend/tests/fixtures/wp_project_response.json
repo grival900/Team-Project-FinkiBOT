@@ -1,0 +1,168 @@
+[
+  {
+    "id": 21626,
+    "date": "2026-09-14T15:10:36",
+    "date_gmt": "2026-09-14T13:10:36",
+    "guid": {
+      "rendered": "https://finki.ukim.mk/?post_type=project&#038;p=21626"
+    },
+    "modified": "2026-09-14T15:32:30",
+    "modified_gmt": "2026-09-14T13:32:30",
+    "slug": "vezilka-north-macedonias-national-ai-factory-antenna",
+    "status": "publish",
+    "type": "project",
+    "link": "https://finki.ukim.mk/projects/vezilka-north-macedonias-national-ai-factory-antenna/",
+    "title": {
+      "rendered": "VEZILKA &#8211; North Macedonia’s national AI Factory Antenna"
+    },
+    "content": {
+      "rendered": "<p>VEZILKA is North Macedonia&#8217;s national AI Factory Antenna — a capital project for the country&#8217;s digital transformation, established under the European Union&#8217;s EuroHPC AI Factory Antennas initiative. It connects domestic universities, start-ups, companies and institutions to the European Union&#8217;s supercomputers and digital resources, giving North Macedonia a strategic position within the European innovation network at a stage when AI adoption across the country&#8217;s industry, public sector and society remains limited.</p>\n<p>The project is hosted by the Ss. Cyril and Methodius University in Skopje (UKIM) and implemented by the Faculty of Computer Science and Engineering (FCSE), with the Ministry of Digital Transformation as principal institutional partner. Its mission is to accelerate the adoption of trustworthy, ethical and responsible AI through concrete, applicable solutions with high social and economic impact.</p>\n<p>VEZILKA applies a &#8220;Trustworthy AI by design&#8221; approach built on rigorous data governance, fairness and bias mitigation, transparent and explainable AI, and human-in-the-loop decision-making. The project addresses the societal and workforce implications of AI adoption through a large-scale upskilling and reskilling effort and a broad public AI-literacy programme, extending its benefits beyond the technical community to the wider public.</p>\n<p>As a national antenna rather than a single research initiative, VEZILKA&#8217;s activities reach across universities, start-ups, SMEs and public institutions. By lowering the cost of access to advanced AI infrastructure and pairing it with training and governance safeguards, the project is designed to convert investment in a single point of national infrastructure into a broad-based shift in the country&#8217;s AI capability — a bridge between North Macedonia&#8217;s research community, its industry, and its public sector.</p>\n<p>Vezilka means &#8220;the embroiderer.&#8221; Embroidery is the art of connection: every thread, with its own direction and color, becomes part of a larger, harmonious picture — the same principle by which an AI model is built from a great many individual pieces of data. VEZILKA symbolizes the connection of people and knowledge, the creation of something meaningful from individual parts, and the carrying of tradition into the future — a bridge between past and future, tradition and technology, culture and intelligence, and a symbol of a new digital renaissance in North Macedonia.</p>\n<h2>At a glance</h2>\n<table class=\"vz-table\">\n<tbody>\n<tr>\n<th>Full title</th>\n<td>VEZILKA — The North Macedonia AI Antenna Factory</td>\n</tr>\n<tr>\n<th>Project number</th>\n<td>101263128</td>\n</tr>\n<tr>\n<th>Call / Topic</th>\n<td>HORIZON-JU-EUROHPC-2025-AIFA-01</td>\n</tr>\n<tr>\n<th>Type of action</th>\n<td>HORIZON-JU-RIA (Research and Innovation Action)</td>\n</tr>\n<tr>\n<th>Programme</th>\n<td>EuroHPC Joint Undertaking</td>\n</tr>\n<tr>\n<th>Coordinator / Host</th>\n<td>Ss. Cyril and Methodius University in Skopje (UKIM) — implemented by FCSE</td>\n</tr>\n<tr>\n<th>Start date</th>\n<td>1 April 2026</td>\n</tr>\n<tr>\n<th>Duration</th>\n<td>36 months</td>\n</tr>\n<tr>\n<th>Budget</th>\n<td>≈ €6.2M total, including ≈ €3.1M EU grant, and <em>co-financed</em><em> by the Ministry of Digital Transformation and FCSE-UKIM</em></td>\n</tr>\n</tbody>\n</table>\n<p>For more information about VEZILKA, please visit the following <a href=\"https://vezilka.ai/\">LINK</a>.</p>\n<p><img loading=\"lazy\" decoding=\"async\" class=\"alignnone size-full wp-image-21629\" src=\"https://finki.ukim.mk/wp-content/uploads/2026/09/logos.png\" alt=\"\" width=\"1200\" height=\"900\" srcset=\"https://finki.ukim.mk/wp-content/uploads/2026/09/logos.png 1200w, https://finki.ukim.mk/wp-content/uploads/2026/09/logos-300x225.png 300w, https://finki.ukim.mk/wp-content/uploads/2026/09/logos-1024x768.png 1024w, https://finki.ukim.mk/wp-content/uploads/2026/09/logos-768x576.png 768w, https://finki.ukim.mk/wp-content/uploads/2026/09/logos-16x12.png 16w\" sizes=\"auto, (max-width: 1200px) 100vw, 1200px\" /></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>VEZILKA is North Macedonia&#8217;s national AI Factory Antenna — a capital project for the country&#8217;s digital transformation, established under the European Union&#8217;s EuroHPC AI Factory Antennas initiative. It connects domestic universities, start-ups, companies and institutions to the European Union&#8217;s supercomputers and digital resources, giving North Macedonia a strategic position within the European innovation network at [&hellip;]</p>\n",
+      "protected": false
+    },
+    "featured_media": 21627,
+    "template": "",
+    "tags": [],
+    "class_list": [
+      "post-21626",
+      "project",
+      "type-project",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/project/21626",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/project"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/types/project"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media/21627"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media?parent=21626"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/tags?post=21626"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 20723,
+    "date": "2026-07-23T10:17:46",
+    "date_gmt": "2026-07-23T08:17:46",
+    "guid": {
+      "rendered": "https://newsite.finki.ukim.mk/?post_type=project&#038;p=20723"
+    },
+    "modified": "2026-08-04T10:31:55",
+    "modified_gmt": "2026-08-04T08:31:55",
+    "slug": "prime-alert",
+    "status": "publish",
+    "type": "project",
+    "link": "https://finki.ukim.mk/projects/prime-alert/",
+    "title": {
+      "rendered": "PRIME Alert"
+    },
+    "content": {
+      "rendered": "<p><strong>PRIME Alert</strong><br />\n05.03.2026 &#8211; 05.03.2029</p>\n<p><strong>NATO Science for Peace and Security Program, SPS G8765</strong><br />\n<a href=\"https://prime-alert.finki.net.mk/\">https://prime-alert.finki.net.mk</a></p>\n<p><strong>PRIME Alert</strong> (Personalised Micro Environmental Change Alert) is an innovative Artificial intelligence approach to improving safety, effectiveness and awareness of first responders/soldiers in high-risk environments such as natural disasters (hurricanes, floods, fires) and combat scenarios (nerve gas, toxins in caves/tunnels). Unlike other existing systems, this project is a comprehensive solution for real-time estimation of danger in the hazardous environments.</p>\n<p>The expected outcomes are affiliated to the AI enhanced on-site decisions, based on three sources: vital parameters sensors (SpO2, HR, RR), micro-environmental sensors (air quality, toxins, temperature), global environmental data (obtained from radars, weather stations). This system provides real-time health monitoring, stress-level assessment, and alerting utilizing automated speech. Responders/soldiers communicate with the Command Unit, the multi-user continuous monitoring part, represented by a software platform that facilitates commands to the responders/soldiers (regrouping, extraction). The Key objectives of the proposed solution are: integration of sensors, data collection, transformation, using artificial intelligence for Alerts generation and prediction of responders stress level, AI powered Speech recognition and automated health advice to the responders/soldiers, as well as centralized connectivity with the Command Unit.</p>\n<p>Participating partners:</p>\n<p><strong>FCSE &#8211; N. Macedonia (Coordinator)</strong><br />\n&#8211; NPD: prof. Ana Madevska Bogdanova<br />\n<strong>MEI &#8211; Serbia</strong><br />\n&#8211; PPD: prof. Tatjana Loncar &#8211; Turukalo<br />\n<strong>FIIT – Slovakia</strong><br />\n&#8211; Co-Director: prof. Fedor Lehocki<br />\n<strong>ULB – Belgium</strong><br />\n&#8211; Co-Director: Valerie Tommen</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>PRIME Alert 05.03.2026 &#8211; 05.03.2029 NATO Science for Peace and Security Program, SPS G8765 https://prime-alert.finki.net.mk PRIME Alert (Personalised Micro Environmental Change Alert) is an innovative Artificial intelligence approach to improving safety, effectiveness and awareness of first responders/soldiers in high-risk environments such as natural disasters (hurricanes, floods, fires) and combat scenarios (nerve gas, toxins in caves/tunnels). Unlike [&hellip;]</p>\n",
+      "protected": false
+    },
+    "featured_media": 20724,
+    "template": "",
+    "tags": [],
+    "class_list": [
+      "post-20723",
+      "project",
+      "type-project",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/project/20723",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/project"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/types/project"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media/20724"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media?parent=20723"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/tags?post=20723"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,76 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: finkibot
+      POSTGRES_PASSWORD: finkibot
+      POSTGRES_DB: finkibot
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U finkibot"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  mailhog:
+    image: mailhog/mailhog
+    restart: unless-stopped
+    ports:
+      - "8025:8025" # web UI
+      - "1025:1025" # smtp
+
+  adminer:
+    image: adminer
+    restart: unless-stopped
+    ports:
+      - "8090:8080"
+    depends_on:
+      - db
+
+  # The app itself (backend + frontend) is only started with `--profile full`. Normal
+  # dev runs these two on the host (uvicorn / npm run dev) for fast reloads; a bare
+  # `docker compose up` then brings up just the infra they need (db, mailhog, adminer).
+  # See the README's "Running it" section.
+  backend:
+    profiles: ["full"]
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    restart: unless-stopped
+    env_file:
+      - backend/.env
+    environment:
+      DATABASE_URL: postgresql+psycopg://finkibot:finkibot@db:5432/finkibot
+      SMTP_HOST: mailhog
+      SMTP_PORT: "1025"
+    ports:
+      - "8000:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./backend:/app/backend
+      - hf_cache:/root/.cache/huggingface
+
+  frontend:
+    profiles: ["full"]
+    build:
+      context: ./frontend
+    restart: unless-stopped
+    environment:
+      VITE_API_BASE_URL: http://localhost:8000
+    ports:
+      - "8080:8080"
+    depends_on:
+      - backend
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+
+volumes:
+  pgdata:
+  hf_cache:

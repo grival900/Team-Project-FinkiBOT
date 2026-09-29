@@ -1,0 +1,144 @@
+[
+  {
+    "id": 21593,
+    "date": "2026-09-07T12:15:00",
+    "date_gmt": "2026-09-07T10:15:00",
+    "guid": {
+      "rendered": "https://finki.ukim.mk/jobs-and-internships/otkrivanje-na-shum-kaj-ekg/"
+    },
+    "modified": "2026-09-15T23:49:57",
+    "modified_gmt": "2026-09-15T21:49:57",
+    "slug": "otkrivanje-na-shum-kaj-ekg",
+    "status": "publish",
+    "type": "jobs-and-internships",
+    "link": "https://finki.ukim.mk/jobs-and-internships/otkrivanje-na-shum-kaj-ekg/",
+    "title": {
+      "rendered": "Откривање на шум кај ЕКГ"
+    },
+    "content": {
+      "rendered": "<p>Развој на алгоритми кои откриваат шум кај ЕКГ сигнали. </p>\n",
+      "protected": false
+    },
+    "featured_media": 21594,
+    "template": "",
+    "class_list": [
+      "post-21593",
+      "jobs-and-internships",
+      "type-jobs-and-internships",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/jobs-and-internships/21593",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/jobs-and-internships"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/types/jobs-and-internships"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media/21594"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media?parent=21593"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 21588,
+    "date": "2026-09-03T15:01:00",
+    "date_gmt": "2026-09-03T13:01:00",
+    "guid": {
+      "rendered": "https://finki.ukim.mk/jobs-and-internships/oglas-za-praksa-htec-group/"
+    },
+    "modified": "2026-09-15T23:49:57",
+    "modified_gmt": "2026-09-15T21:49:57",
+    "slug": "oglas-za-praksa-htec-group",
+    "status": "publish",
+    "type": "jobs-and-internships",
+    "link": "https://finki.ukim.mk/jobs-and-internships/oglas-za-praksa-htec-group/",
+    "title": {
+      "rendered": "Оглас за пракса – HTEC Group"
+    },
+    "content": {
+      "rendered": "<p>HTEC Group е глобална консултантска компанија за софтверско инженерство и развој на дигитални производи. Соработува со Fortune 500 корпорации, иновативни стартапи и високотехнолошки претпријатија, обезбедувајќи технолошки решенија во целиот процес – од стратегија до имплементација.</p>\n<p>Ако сакате да стекнете реално искуство, да работите на вистински проекти и да бидете дел од динамична и успешна приказна, ова е вашата шанса.</p>\n<p>Ги повикуваме студентите од 4-та година и постдипломските студии да аплицираат за нашата програма за пракса.</p>\n<p>Информација за праксата<br />\n• Времетраење: 4 недели<br />\n• Локација: Во просториите на HTEC Скопје<br />\n• Краен рок за пријавување: 15 Септември 2026<br />\n• Почеток на праксата: 5 Октомври 2026<br />\n• Вработување: За успешните практиканти постои можност за вработување по завршување на праксата</p>\n<p>Нашиот план за учење опфаќа имплементација на дизајнерски решенија во областа на податочното инженерство (Data Engineering), backend развојот (Java) и frontend развојот (React). Ќе се фокусираме на пишување чист код и примена на модуларна архитектура, имајќи ги предвид скалабилноста и перформансите.</p>\n<p>Вкупниот број на практиканти е ограничен на 14 студенти, распределени според следните технологии:<br />\n• Backend (Java) – 6 студенти<br />\n• Frontend (React) – 4 студенти<br />\n• Податочно инженерство (Data Engineering) – 4 студенти</p>\n<p>Процес на селекција<br />\n• Тест (во просториите на HTEC Скопје): 17 и 18 Септември 2026<br />\n     o\tПрашања од областа на програмирање<br />\n• Разговор со тимот за регрутација и селекција: 21 – 25 Септември 2026<br />\n     o\tНајдобрите кандидати од тестирањето ќе бидат повикани на разговор (интервју) со тимот за регрутација<br />\n• Разговор со менторите на праксата: 28 и 29 Септември 2026</p>\n<p>Што нудиме<br />\n• Работа на реални бизнис проблеми, а не само теоретски вежби<br />\n• Менторство од искусни инженери за време на целата програма<br />\n• Практично искуство во професионална развојна средина<br />\n• Сертификат за завршена пракса<br />\n• Можност за вработување за најдобрите практиканти </p>\n<p>Кој може да аплицира<br />\n• Студенти на 4-та година или постдипломски студии на ФИНКИ<br />\n• Физичко присуство со полно работно време за времетраење на праксата во просториите на HTEC Скопје<br />\n• Основно познавање на програмирање и интерес за практична, тимска работа<br />\n• Мотивација за учење и решавање на реални проблеми </p>\n<p>Како да аплицирате</p>\n<p>https://htec.com/careers/internship/#skopje-software-engineering-internship-ckTs </p>\n",
+      "protected": false
+    },
+    "featured_media": 21589,
+    "template": "",
+    "class_list": [
+      "post-21588",
+      "jobs-and-internships",
+      "type-jobs-and-internships",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/jobs-and-internships/21588",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/jobs-and-internships"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/types/jobs-and-internships"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media/21589"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media?parent=21588"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

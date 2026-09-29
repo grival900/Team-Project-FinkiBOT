@@ -1,0 +1,144 @@
+[
+  {
+    "id": 21633,
+    "date": "2026-09-15T10:01:10",
+    "date_gmt": "2026-09-15T08:01:10",
+    "guid": {
+      "rendered": "https://finki.ukim.mk/?post_type=announcement&#038;p=21633"
+    },
+    "modified": "2026-09-15T10:01:10",
+    "modified_gmt": "2026-09-15T08:01:10",
+    "slug": "zaverka-na-leten-i-upis-na-zimski-semestar-2026-2027",
+    "status": "publish",
+    "type": "announcement",
+    "link": "https://finki.ukim.mk/announcements/zaverka-na-leten-i-upis-na-zimski-semestar-2026-2027/",
+    "title": {
+      "rendered": "Заверка на летен и упис на зимски семестар 2026/2027"
+    },
+    "content": {
+      "rendered": "<div data-olk-copy-source=\"MessageBody\">Почитувани студенти,</p>\n</div>\n<div>Заверката на летниот и запишувањето на зимскиот семестар ќе се одвива <b>од 14.09.2026 до 17.09.2026</b>. Изборните предмети што ќе се активираат можете да ги прегледате на следниот <a id=\"OWA69e9dcb3-88fc-b597-e5b1-6cda545e17e5\" title=\"https://raspredelba.finki.ukim.mk/active-subjects?name=&amp;semesterType=WINTER&amp;results=1000\" href=\"https://raspredelba.finki.ukim.mk/active-subjects?name=&amp;semesterType=WINTER&amp;results=1000\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\" data-linkindex=\"0\"><b>ЛИНК</b></a>.</p>\n</div>\n<div>Информации за финансиските обврски се достапни на следниот <a id=\"OWA0190381e-73b5-f81b-802c-136e6a2f87b4\" title=\"https://oldsite.finki.ukim.mk/mk/zafakultetot/finansii\" href=\"https://finki.ukim.mk/za-nas/administracija-i-dokumenti/finansii/\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\" data-linkindex=\"1\"><b>ЛИНК</b></a>.</p>\n</div>\n<div>Дополнително ќе следи известување за доставување на статистичкиот лист и добивање на печат во индексот.</div>\n",
+      "protected": false
+    },
+    "featured_media": 15124,
+    "template": "",
+    "class_list": [
+      "post-21633",
+      "announcement",
+      "type-announcement",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/announcement/21633",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/announcement"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/types/announcement"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media/15124"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media?parent=21633"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 21602,
+    "date": "2026-09-13T09:50:26",
+    "date_gmt": "2026-09-13T07:50:26",
+    "guid": {
+      "rendered": "https://finki.ukim.mk/?post_type=announcement&#038;p=21602"
+    },
+    "modified": "2026-09-13T09:50:26",
+    "modified_gmt": "2026-09-13T07:50:26",
+    "slug": "lista-na-prijaveni-kandidati-so-uspeh-od-sredno-obrazovanie-od-vtor-upisen-rok-2026-2027-godina",
+    "status": "publish",
+    "type": "announcement",
+    "link": "https://finki.ukim.mk/announcements/lista-na-prijaveni-kandidati-so-uspeh-od-sredno-obrazovanie-od-vtor-upisen-rok-2026-2027-godina/",
+    "title": {
+      "rendered": "Листа на пријавени кандидати со успех од средно образование од втор уписен рок 2026/2027 година"
+    },
+    "content": {
+      "rendered": "<div class=\"x_elementToProof\" data-olk-copy-source=\"MessageBody\">Почитувани,</p>\n</div>\n<div class=\"x_elementToProof\">Во прилог е листата на пријавени кандидати за упис на ФИНКИ во вториот уписен рок за академската 2026/2027 година. Листата можете да ја најдете на <a id=\"OWA3dcdc0de-a1f8-8096-191b-67436ee321ec\" class=\"x_OWAAutoLink\" title=\"https://finki.ukim.mk/wp-content/uploads/2026/08/lista-kandidati-finki.pdf\" href=\"https://finki.ukim.mk/wp-content/uploads/2026/09/lista-na-kandidati.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\" data-linkindex=\"0\"><b>следниот линк</b></a>.</p>\n</div>\n<div class=\"x_elementToProof\">Листата ги содржи информациите за она што е пополнето во документите и не дава информација за рангирањето на кандидатите. Листата содржи број на кандидатот, првиот избор на студиска програма, дали кандидатот избрал кофинансирање или не, редослед на изборите на насоки по приоритет, како и поените од успехот.</p>\n</div>\n<div class=\"x_elementToProof\">По објавувањето на листата на пријавени кандидати за запишување во прва година, најдоцна до 14.09.2026 до 16:00 часот може да се достави приговор за технички пропусти. Приговорите се доставуваат со пополнување на формата на <a id=\"OWA3bfcc8c2-d7c1-b34c-27ff-89c1a0a1c01e\" class=\"x_OWAAutoLink\" title=\"https://forms.cloud.microsoft/e/uHGANpuuy5\" href=\"https://forms.cloud.microsoft/e/uHGANpuuy5\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\" data-linkindex=\"1\"><b>следниот линк</b></a>.</p>\n</div>\n<div class=\"x_elementToProof\">Техничките пропусти се однесуваат на:</div>\n<ol start=\"1\">\n<li>Печатна грешка на основен избор на студиска програма</li>\n<li>Избор со кофинансирање</li>\n<li>Редослед на студиски програми</li>\n<li>Погрешно пресметани поени (заради соодветност на предмети, тип на матура и сл.)</li>\n</ol>\n",
+      "protected": false
+    },
+    "featured_media": 15124,
+    "template": "",
+    "class_list": [
+      "post-21602",
+      "announcement",
+      "type-announcement",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry"
+    ],
+    "_links": {
+      "self": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/announcement/21602",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/announcement"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/types/announcement"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media/15124"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://finki.ukim.mk/wp-json/wp/v2/media?parent=21602"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
